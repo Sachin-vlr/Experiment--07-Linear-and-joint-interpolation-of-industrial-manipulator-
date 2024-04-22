@@ -1,8 +1,6 @@
 # Experiment--07-Linear-and-joint-interpolation-of-industrial-manipulator-
-
 ## Developed by: SACHIN.C
 ## Reg no: 212222230125
-
 ### Aim :
       To understand linear and joint interpolation of industrial manipulator and develop a program for the same 
       
@@ -33,15 +31,11 @@ When the manipulator wrist is moved by the programmer to teach, the movements co
 ![Robot-interpolation-PTP-LIN-CIRC](https://user-images.githubusercontent.com/36288975/201615171-d0886aaa-8220-4b0c-8a1d-3d8a5c69c76a.png)
 
 ### Figure -01 difference between P-P , joint and linear interpolation 
-
 ### Program : 
 
 ![image](https://github.com/vinushcv/Experiment--07-Linear-and-joint-interpolation-of-industrial-manipulator-/assets/113975318/63300663-3666-449b-989f-90c8c97089bd)
-
 ## Robot movements:
-
 ![image](https://github.com/vinushcv/Experiment--07-Linear-and-joint-interpolation-of-industrial-manipulator-/assets/113975318/b2660fd9-6430-42f5-a450-13ef489d104b)
-
 ![image](https://github.com/vinushcv/Experiment--07-Linear-and-joint-interpolation-of-industrial-manipulator-/assets/113975318/0227b37a-9cf7-48ff-9707-79ac2613de84)
 
 ## Result:
